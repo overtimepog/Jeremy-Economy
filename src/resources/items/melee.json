@@ -15,7 +15,7 @@
         "sell": 379,
         "desc": "",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/732928724160217118/wooden_spear.png",
-        "icon": "<:wooden_spear:732852914862817321>",
+        "icon": "<:wooden_spear:732852914862817323>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
