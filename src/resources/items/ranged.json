@@ -69,7 +69,7 @@
         "sell": 3356,
         "desc": "",
         "image": "https://cdn.discordapp.com/attachments/820769091148316715/829063468275466280/bow.png",
-        "icon": "<:bow:829063360808091678>",
+        "icon": "<:huntingbow:829063360808091678>",
         "breaksOnUse": false,
         "chanceToBreak": 0.5,
         "canBeStolen": true,
