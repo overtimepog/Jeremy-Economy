@@ -17,8 +17,8 @@
         },
         "sell": 2485,
         "desc": "Open this to get a random item!",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/733744349636198470/crate_icon.png",
-        "icon": "<:crate_icon:733737806287077427>",
+        "image": "https://cdn.discordapp.com/attachments/814241110842277901/828978080571719781/170-1708027_wooden-crate-wooden-crate-transparent-background.png",
+        "icon": "<:crate:828977940603338778>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -256,8 +256,8 @@
         },
         "sell": 17989,
         "desc": "A rare crate that may contain some high tier weapons.",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733720054574743684/military_crate_icon_SMALL.png",
-        "icon": "<:military_crate:733720192114491394>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829019601349378118/SURVIVE_CON_WEAPONSCACHE.png",
+        "icon": "<:milcrate:829018894635106305>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -549,46 +549,6 @@
             "timed_explosive"
         ],
         "tier": 3
-    },
-    "bone_armor": {
-        "rarity": "Epic",
-        "isWeap": false,
-        "isItem": true,
-        "isShield": true,
-        "shieldInfo": {
-            "seconds": 3600,
-            "protection": 0.2
-        },
-        "damage": "",
-        "minDmg": "",
-        "maxDmg": "",
-        "ammo": "",
-        "craftedWith": {
-            "level": 4,
-            "materials": [
-                "cloth|1",
-                "bone_fragments|2"
-            ]
-        },
-        "recyclesTo": {
-            "materials": [
-                "bone_fragments|1"
-            ]
-        },
-        "buy": "",
-        "sell": 6340,
-        "desc": "Use this armor to reduce damage taken from attacks by **20%** for **1 hour**.",
-        "image": "https://cdn.discordapp.com/attachments/542248243313246208/750619946249355345/bone_armor.png",
-        "icon": "<:bone_armor:750834742395666523>",
-        "breaksOnUse": "",
-        "canBeStolen": true,
-        "cooldown": "",
-        "artist": "",
-        "category": "Item",
-        "aliases": [
-            "bone_suit"
-        ],
-        "tier": 1
     },
     "hazmat_suit": {
         "rarity": "Epic",

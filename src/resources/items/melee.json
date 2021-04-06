@@ -221,8 +221,8 @@
         "buy": "",
         "sell": 532,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929395303645234/pickaxe.png",
-        "icon": "<:pickaxe:732860149936553985>",
+        "image": "https://cdn.discordapp.com/attachments/814241110842277901/828976386261516338/pickaxe.png",
+        "icon": "<:pickaxe:828976313918291979>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
