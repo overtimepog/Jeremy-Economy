@@ -442,7 +442,7 @@ module.exports = {
 					}
 				}
 
-				await app.cd.setCD(message.author.id, 'attack', app.itemdata[item].cooldown.seconds * 1000)
+				await app.cd.setCD(message.author.id, 'attack', app.itemdata[item].cooldown.seconds * 0)
 
 				const baseDmg = Math.floor(((Math.floor(Math.random() * (damageMax - damageMin + 1)) + damageMin) + bonusDamage) * row.scaledDamage)
 				let randDmg = baseDmg
