@@ -75,7 +75,8 @@
                     "rock|1",
                     "pickaxe|1",
                     "wooden_spear|1",
-                    "salvaged_cleaver|1"
+                    "salvaged_cleaver|1",
+                    "milk|1"
                 ]
             }
         },
@@ -117,6 +118,44 @@
         "desc": "Use this to restore **10 - 19** health and reduce bleeding by **10**.",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929515080384592/bandage.png",
         "icon": "<:bandage:732858488652431480>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 967
+        },
+        "artist": "",
+        "category": "Item",
+        "aliases": [],
+        "tier": 0
+    },
+    "milk": {
+        "rarity": "Common",
+        "isWeap": false,
+        "isItem": true,
+        "isHeal": true,
+        "healMin": 1,
+        "healMax": 10,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": {
+            "level": 2,
+            "materials": [
+                "cloth|2"
+            ]
+        },
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": {
+            "amount": 1500,
+            "currency": "money"
+        },
+        "sell": 700,
+        "desc": "Drink this to restore **2 - 10** health",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829031222109929514/milk.png",
+        "icon": "<:milk:829031103393562644>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": {
@@ -292,6 +331,7 @@
                     "f1_grenade|1",
                     "bandage|1",
                     "mace|1",
+                    "milk|1",
                     "machete|1",
                     "salvaged_sword|1",
                     "salvaged_cleaver|1",
