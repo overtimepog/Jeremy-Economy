@@ -1,0 +1,41 @@
+{
+  "confirm": "✅",
+  "cancel": "❌",
+  "money": "<:jeremy_coin:828814740456996884>",
+  "scrap": "<:scrap:828834590931025970>",
+  "clan_icon": "<:clanicon:602143018514120704>",
+  "clan_leader_crown": "<:owner:585789630800986114>",
+  "death_skull": "<:deth:601324554199236618>",
+  "plus": "<:gained:610502532003004435>",
+  "minus": "<:lost:610502520590041089>",
+  "loading": "<a:loadgif:594877067837833237>",
+  "blackjack_dealer_won": "<:OHNONO:625030797375832133>",
+  "blackjack_dealer_lost": "<:iamlose:625031548961292349>",
+  "blackjack_dealer_neutral": "<:ez:625030742296100902>",
+  "slots_toprow_gif": "<a:slotsTop:734087756627574824>",
+  "slots_midrow_gif": "<a:slotsMid:734087756304875631>",
+  "slots_botrow_gif": "<a:slotsBot:734087756472647750>",
+  "slots_common_icon": "💵",
+  "slots_rare_icon": "💸",
+  "slots_epic_icon": "💰",
+  "slots_legendary_icon": "💎",
+  "text_channel": "<:text_channel:741087747120300133>",
+  "locked_text_channel": "<:locked_text_channel:741087747212836865>",
+  "voice_channel": "<:voice_channel:741087747661365269>",
+  "health": {
+    "full": "<:full:828820644770742344>",
+    "empty": "<:emptynew:828820645076795412>",
+    "percent_25": "<:25:828820645302894604>",
+    "percent_50": "<:half:828820645193187344>",
+    "percent_75": "<:75:828820645176934420>"
+  },
+  "accounts": {
+    "active": "<:A_:828833225790062592>",
+    "inactive": "<:NA:828833225669345350> "
+  },
+  "tiers": {
+    "1": "<:tier1:750119430947864678>",
+    "2": "<:tier2:750119431346061373>",
+    "3": "<:tier3:750119431333740544>"
+  }
+}

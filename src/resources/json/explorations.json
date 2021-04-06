@@ -1,0 +1,943 @@
+{
+    "supermarket": {
+        "title": "Abandoned Supermarket",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/738367060115193866/supermarket.png",
+        "suggestedLevel": "2",
+        "successRate": {
+            "1": 0.35,
+            "2": 0.4,
+            "3": 0.45,
+            "4": 0.5,
+            "5": 0.5,
+            "6": 0.52,
+            "7": 0.55,
+            "8": 0.6,
+            "9": 0.62,
+            "10": 0.65
+        },
+        "requirement": {
+            "type": null,
+            "value": "",
+            "bonus": 0
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** found {reward} outside of the building!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** climbs on top of the building and finds {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** loots a dead player inside the building and finds {reward}!"
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** saw people inside and was too scared to enter..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** could not find anything worth taking..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** could not find anything useful."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "All **{user}** saw was broken tiles, empty shelves and a dead rat."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** checked all the shelves, the back office and storage rooms, but found nothing..."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 4
+                },
+                "item": "rock",
+                "item2": "",
+                "quote": "Someone bonked **{user}** on the head with a {item} for **{damage}** damage, and ran away!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 5
+                },
+                "item": "bone_knife",
+                "item2": "",
+                "quote": "**{user}** got into a fight with an armed man wielding a {item} and lost **{damage}** health."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 8
+                },
+                "item": "crossbow",
+                "item2": "",
+                "quote": "**{user}** was headshot by some loser with a {item} and lost **{damage}** health..."
+            }
+        ]
+    },
+    "gas_station": {
+        "title": "Oxum's Gas Station",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/738367057778966609/oxums.png",
+        "suggestedLevel": "2",
+        "successRate": {
+            "1": 0.30,
+            "2": 0.4,
+            "3": 0.45,
+            "4": 0.5,
+            "5": 0.5,
+            "6": 0.52,
+            "7": 0.55,
+            "8": 0.6,
+            "9": 0.62,
+            "10": 0.65
+        },
+        "requirement": {
+            "type": null,
+            "value": "",
+            "bonus": 0
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** searched a players body on the floor and found {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** found {reward} outside of the building!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "After checking all the rooms in the building, **{user}** managed to find {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** downed a looter hiding in the bathroom and stole {reward} from him!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** found {reward} in the station's garage."
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** found {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** found a small toolbox holding {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 5
+                },
+                "quote": "**{user}** encounters another player and chooses to fight! After taking **{damage}** damage, **{user}** manages to find {reward}."
+            },
+            {
+                "reward": {
+                    "item": "crate|1",
+                    "rareItem": "crate|1",
+                    "money": {
+                        "min": 2500,
+                        "max": 4000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 4
+                },
+                "quote": "**{user}** is attacked by a wild boar and loses **{damage}** health. Luckily, **{user}** continues the exploration and finds {reward}."
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** could not find anything inside, nor outside the building..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** saw plenty of dead bodies and decided to back off..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** looked everywhere: the shelves, computer station, bathroom... but found nothing."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** was spooked by some animal tracks and didn't want to risk being eaten alive..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** noticed a group of looters inside. Too scared - **{user}** ran away."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** did not find anything useful."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 5
+                },
+                "item": "bow",
+                "item2": "",
+                "quote": "**{user}** was attacked by another looter using a {item} and lost **{damage}** health!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 8
+                },
+                "item": "wooden_spear",
+                "item2": "",
+                "quote": "**{user}** was stabbed by some idiot with a {item} and lost **{damage}** health..."
+            }
+        ]
+    },
+    "launch_site": {
+        "title": "Launch Site",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/738367055530819665/launch_site2.png",
+        "suggestedLevel": "10",
+        "successRate": {
+            "1": -1.0,
+            "2": -1.0,
+            "3": -1.0,
+            "4": -1.0,
+            "5": -1.0,
+            "6": -1.0,
+            "7": -0.5,
+            "8": 0.1,
+            "9": 0.12,
+            "10": 0.15,
+            "11": 0.16,
+            "12": 0.17,
+            "13": 0.17,
+            "14": 0.17,
+            "15": 0.2
+        },
+        "requirement": {
+            "type": "armor",
+            "value": "hazmat_suit",
+            "bonus": 0.5
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** dodges <:bradley_tank:750916252809035876> Bradley, climbs to the top of Launch Site, and finds {reward} at the top!"
+            },
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 45
+                },
+                "quote": "After not being cautious enough, <:bradley_tank:750916252809035876> Bradley spots **{user}** and fires his cannons! **{user}** loses {damage} health from the encounter but finds {reward}."
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 45000,
+                        "max": 60000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "After seeing <:bradley_tank:750916252809035876> Bradley circling around, **{user}** wimps out and resigns to looting the outskirts of Launch, still managing to find {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "supply_signal|1",
+                    "money": {
+                        "min": 45000,
+                        "max": 60000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** decides to loot the rocket and finds {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 25
+                },
+                "quote": "**{user}** encounters 2 other looters. After suffering **{damage}** damage, **{user}** takes them both out and finds {reward} on them!"
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 102
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** was spotted by <:bradley_tank:750916252809035876> Bradley and got shot by his cannons for **{damage}** damage!"
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** noticed high radiation levels and decided to back off. If only there was some outfit that helped with radiation..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** heard plenty of gunshots and decided to leave."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 57
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** quietly entered the Launch Site, but was quickly spotted by <:bradley_tank:750916252809035876> Bradley and got blasted for **{damage}** damage!"
+            }
+        ]
+    },
+    "military_tunnels": {
+        "title": "Military Tunnels",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/750920969266135040/military_tunnels.png",
+        "suggestedLevel": "12",
+        "successRate": {
+            "1": -1.0,
+            "2": -1.0,
+            "3": -1.0,
+            "4": -1.0,
+            "5": -1.0,
+            "6": -1.0,
+            "7": -1.0,
+            "8": -0.1,
+            "9": -0.1,
+            "10": 0.0,
+            "11": 0.1,
+            "12": 0.15,
+            "13": 0.16,
+            "14": 0.17,
+            "15": 0.2
+        },
+        "requirement": {
+            "type": "armor",
+            "value": "metal_armor",
+            "bonus": 0.7
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** finds {reward} inside of the tunnel!"
+            },
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 47
+                },
+                "quote": "**{user}** is shot by multiple <:scientist:750915939675013212> Scientists and suffers **{damage}** damage but is able to find {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 45000,
+                        "max": 60000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** resigns to looting the outside the tunnel after seeing several <:scientist:750915939675013212> Scientists inside. {user} manages to find {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "supply_signal|1",
+                    "money": {
+                        "min": 45000,
+                        "max": 60000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** loots the tunnel and finds {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "elite_crate|1",
+                    "rareItem": "elite_crate|1",
+                    "money": {
+                        "min": 105000,
+                        "max": 110000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 28
+                },
+                "quote": "**{user}** discovers that the tunnels were occupied by 3 other looters! **{user}** sneaks by them and finds {reward} but is shot for **{damage}** damage while trying to run away!"
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 85
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** enters the tunnels... Only to be shot by 5 <:scientist:750915939675013212> Scientists for **{damage}** damage!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 21
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** was not equipped to deal with the <:scientist:750915939675013212> Scientist guarding the entrance and gets shot for **{damage}** damage! Next time you should wear some better armor..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** noticed that the tunnels were being cleared by another group of looters and decided to leave..."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 52
+                },
+                "item": "pump_shotgun",
+                "item2": "",
+                "quote": "**{user}** enters the tunnels but gets blasted by some guy camping the entrance with a {item}! **{user}** suffers **{damage}** damage."
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 58
+                },
+                "item": "metal_armor",
+                "item2": "",
+                "quote": "**{user}** attracts the attention of looters wearing {item} while trying to clear the tunnels. **{user}** gets shot for **{damage}** damage..."
+            }
+        ]
+    },
+    "trainyard": {
+        "title": "Train Yard",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/740626044121382912/trainyard.png",
+        "suggestedLevel": "7",
+        "successRate": {
+            "1": 0.0,
+            "2": 0.0,
+            "3": 0.0,
+            "4": 0.05,
+            "5": 0.1,
+            "6": 0.38,
+            "7": 0.43,
+            "8": 0.45,
+            "9": 0.46,
+            "10": 0.47,
+            "11": 0.48,
+            "12": 0.5,
+            "13": 0.53,
+            "14": 0.55,
+            "15": 0.56,
+            "16": 0.58,
+            "17": 0.6,
+            "18": 0.61,
+            "19": 0.63,
+            "20": 0.65
+        },
+        "requirement": {
+            "type": null,
+            "value": "",
+            "bonus": 0
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** look arounds and finds {reward} inside one of the train cars!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** sneaks past another looter and finds a {reward} outside!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 19
+                },
+                "quote": "**{user}** was attacked by a wolf for **{damage}** damage but still was able to find {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 21
+                },
+                "quote": "**{user}** fights another looter beside the train tracks, wins but suffers **{damage}** damage... **{user}** gained {reward}!"
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 15,
+                    "item": false
+                },
+                "item": "metal_armor",
+                "item2": "",
+                "quote": "**{user}** is spotted by two looters wearing {item}, tries to run away but is shot at for **{damage}** damage!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 13,
+                    "item": true
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** was struck by a train and lost **{damage}** health!"
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0,
+                    "item": false
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** saw an oncoming train full of people and ran away. <:uh:737093788937355355>"
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0,
+                    "item": false
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** heard a serious fight between two clans and decided to back off."
+            }
+        ]
+    },
+    "powerplant": {
+        "title": "Power Plant",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/742518182056558742/powerplant.png",
+        "suggestedLevel": "7",
+        "successRate": {
+            "1": 0.0,
+            "2": 0.0,
+            "3": 0.0,
+            "4": 0.05,
+            "5": 0.1,
+            "6": 0.38,
+            "7": 0.43,
+            "8": 0.45,
+            "9": 0.46,
+            "10": 0.47,
+            "11": 0.48,
+            "12": 0.5,
+            "13": 0.53,
+            "14": 0.55,
+            "15": 0.56,
+            "16": 0.58,
+            "17": 0.6,
+            "18": 0.61,
+            "19": 0.63,
+            "20": 0.65
+        },
+        "requirement": {
+            "type": null,
+            "value": "",
+            "bonus": 0
+        },
+        "success": [
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** explores the monument without any issues and finds {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "supply_signal|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 30
+                },
+                "quote": "**{user}** saw two looters and chose to fight them! After taking **{damage}** damage, **{user}** wins and finds {reward}!"
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": "health",
+                    "value": 20
+                },
+                "quote": "**{user}** climbs up one of the cooling towers and finds {reward} but takes **{damage}** damage from the radiation..."
+            },
+            {
+                "reward": {
+                    "item": "military_crate|1",
+                    "rareItem": "military_crate|1",
+                    "money": {
+                        "min": 15000,
+                        "max": 20000
+                    }
+                },
+                "loss": {
+                    "type": null,
+                    "value": 0
+                },
+                "quote": "**{user}** climbs up one of the cooling towers and finds {reward}."
+            }
+        ],
+        "failed": [
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 18,
+                    "item": true
+                },
+                "item": "hazmat_suit",
+                "item2": "",
+                "quote": "**{user}** was approached by two looters wearing {item}'s and got shot at for **{damage}** damage!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 13,
+                    "item": false
+                },
+                "item": "",
+                "item2": "",
+                "quote": "**{user}** tried to climb up one of the cooling towers but fell and took **{damage}** damage!"
+            },
+            {
+                "loss": {
+                    "type": "health",
+                    "value": 14,
+                    "item": false
+                },
+                "item": "thompson",
+                "item2": "",
+                "quote": "**{user}** was sprayed at by someone using a {item} and lost **{damage}** health..."
+            },
+            {
+                "loss": {
+                    "type": null,
+                    "value": 0,
+                    "item": false
+                },
+                "item": "revolver",
+                "item2": "",
+                "quote": "**{user}** saw a group of **8** looters with {item}'s and decided against exploring..."
+            }
+        ]
+    }
+}

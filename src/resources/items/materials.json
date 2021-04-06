@@ -1,0 +1,381 @@
+{
+    "wood": {
+        "rarity": "Common",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 169,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732928720301457488/wood.png",
+        "icon": "<:wood:828828981851324456>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [],
+        "tier": 0
+    },
+    "cloth": {
+        "rarity": "Uncommon",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 8976,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732928581264605286/cloth.png",
+        "icon": "<:cloth:828828981909258291>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [],
+        "tier": 0
+    },
+    "semi_body": {
+        "rarity": "Uncommon",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "display": "1x metal",
+            "materials": [
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 4701,
+        "desc": "Parts used to craft semi-auto pistols and rifles.",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929662354980925/semi_body.png",
+        "icon": "<:semi_body:828828981968502794>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [],
+        "tier": 0
+    },
+    "metal": {
+        "rarity": "Rare",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 4409,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929785310740521/metal.png",
+        "icon": "<:metal_fragments:828828981926821958>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "metal_frags",
+            "metal_frag",
+            "frags",
+            "metal_fragments"
+        ],
+        "tier": 0
+    },
+    "hgh_qualityi_metal": {
+        "rarity": "Rare",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 29696,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785297363959902/816841446711492618/high_quality_metal.png",
+        "icon": "<:high_quality_metal:828828981725888553>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "hq_metal",
+            "hqm",
+            "high_qual",
+            "high_quality"
+        ],
+        "tier": 0
+    },
+    "smg_body": {
+        "rarity": "Rare",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "display": "1x metal",
+            "materials": [
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 17189,
+        "desc": "Parts used to craft smaller automatic weapons.",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930115603922965/smg_body.png",
+        "icon": "<:smg_body:828829864605909013>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [],
+        "tier": 0
+    },
+    "rifle_body": {
+        "rarity": "Rare",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "display": "2x metal",
+            "materials": [
+                "metal|2"
+            ]
+        },
+        "buy": "",
+        "sell": 37499,
+        "desc": "Parts used to craft high damage rifles.",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733244384061030470/rifle_body.png",
+        "icon": "<:rifle_body:828828981998518312>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "body"
+        ],
+        "tier": 0
+    },
+    "tech_trash": {
+        "rarity": "Epic",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 11447,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930339156131979/tech_trash.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/497302646521069570/732930339156131979/tech_trash.png",
+        "icon": "<:tech_trash:828829864936341505>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "tech",
+            "trash"
+        ],
+        "tier": 0
+    },
+    "metal_pipe": {
+        "rarity": "Epic",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 5447,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/732952040933949481/metal_pipe.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/732785161661317224/732952040933949481/metal_pipe.png",
+        "icon": "<:metal_pipe:828828981952118794>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "pipe"
+        ],
+        "tier": 0
+    },
+    "metal_spring": {
+        "rarity": "Epic",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 20726,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/732952060219097158/metal_spring.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/732785161661317224/732952060219097158/metal_spring.png",
+        "icon": "<:metal_spring:828829864492138547>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "spring"
+        ],
+        "tier": 0
+    },
+    "gunpowder": {
+        "rarity": "Epic",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 36627,
+        "desc": "Makes things go boom. Useful for crafting ammunition.",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930625966702622/gunpowder.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/497302646521069570/732930625966702622/gunpowder.png",
+        "icon": "<:gunpowder:828831371090198528>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "gp",
+            "boom",
+            "powder"
+        ],
+        "tier": 0
+    },
+    "human_skull": {
+        "rarity": "Limited",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "display": "1x bone_fragments",
+            "materials": [
+                "bone_fragments|1"
+            ]
+        },
+        "buy": "",
+        "sell": 604,
+        "desc": "**Halloween event item.**",
+        "image": "https://cdn.discordapp.com/attachments/750103329257816085/758455971512057866/human_skull.png",
+        "icon": "<:human_skull:828829864081227797>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [
+            "skull"
+        ],
+        "tier": 0
+    },
+    "coal": {
+        "rarity": "Limited",
+        "isWeap": false,
+        "isItem": false,
+        "isMaterial": true,
+        "damage": "",
+        "minDmg": "",
+        "maxDmg": "",
+        "ammo": "",
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": []
+        },
+        "buy": "",
+        "sell": 234,
+        "desc": "You were on the naughty list!\n**Christmas event item.**",
+        "image": "https://cdn.discordapp.com/attachments/732785297363959902/734411876376641596/coal.png",
+        "icon": "<:coal:828829863887896576>",
+        "breaksOnUse": "",
+        "canBeStolen": true,
+        "cooldown": "",
+        "artist": "",
+        "category": "Material",
+        "aliases": [],
+        "tier": 0
+    }
+}

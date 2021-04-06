@@ -1,0 +1,68 @@
+{
+    "elitist": {
+        "icon": "🥇",
+        "description": "Reach #1 on the global leaderboard in any category. For the level category, you must be #1 5 days after the level wipe.",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/first-place-medal_1f947.png",
+        "artist": ""
+    },
+    "specialist": {
+        "icon": "<:glock:551394726624886796>",
+        "description": "Obtain 20 or more kills.",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/698393828087955556/glockTest.png",
+        "artist": "221087115893669889"
+    },
+    "executioner": {
+        "icon": "<:awpT:551398648408178703>",
+        "description": "Obtain 100 or more kills.",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/698395123918045224/awpT.png",
+        "artist": "221087115893669889"
+    },
+    "trash_goblin": {
+        "icon": "🔰",
+        "description": "Reach level 5.",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/japanese-symbol-for-beginner_1f530.png",
+        "artist": ""
+    },
+    "trash_fiend": {
+        "icon": "🔹",
+        "description": "Reach level 10.",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/small-blue-diamond_1f539.png",
+        "artist": ""
+    },
+    "trash_legend": {
+        "icon": "💠",
+        "description": "Reach level 20.",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/diamond-shape-with-a-dot-inside_1f4a0.png",
+        "artist": ""
+    },
+    "gambler": {
+        "icon": "💰",
+        "description": "Win at least 2,000,000 Scrap in a single gamble.",
+        "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/236/money-bag_1f4b0.png",
+        "artist": ""
+    },
+    "arms_dealer": {
+        "icon": "🕵️",
+        "description": "Sell 10 items on the black market.",
+        "image": "https://cdn.discordapp.com/attachments/542248243313246208/716861466782728323/detective_1f575.png",
+        "artist": ""
+    },
+    "og_trasher": {
+        "icon": "<:og_trashcord:736435639179804788>",
+        "description": "Played Jeremy before the Bot is verifed.",
+        "image": "https://cdn.discordapp.com/attachments/732785297363959902/736435600990666862/og_trashcord.png",
+        "artist": ""
+    },
+    "dev_slayer": {
+        "icon": "<:wickmode:744409719581573210>",
+        "description": "Kill overtime#7858, you can find him in the official Discord server! `j!invite`",
+        "image": "https://cdn.discordapp.com/attachments/542248243313246208/747420490821271632/wickmode.png",
+        "artist": ""
+    },
+    "trash_lord": {
+        "icon": "💎",
+        "description": "An exclusive badge for Jeremy patreon donators!",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/754010748115615844/gem-stone_1f48e.png",
+        "artist": ""
+    }
+}

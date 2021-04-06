@@ -1,0 +1,848 @@
+{
+    "m249": {
+        "rarity": "Ultra",
+        "isWeap": true,
+        "isItem": false,
+        "damage": "59 - 78",
+        "minDmg": 47,
+        "maxDmg": 72,
+        "ammo": [
+            "explosive_bullet",
+            "incen_rifle_bullet",
+            "hv_rifle_bullet",
+            "rifle_bullet"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": [
+                "metal_spring|1",
+                "rifle_body|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 248305,
+        "desc": "Military light machine gun that can only drop from the Patrol Helicopter and Bradley.",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733246776793890897/m249.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/732785161661317224/733246776793890897/m249.png",
+        "icon": "<:m249:750105298101993472>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.08,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 6720
+        },
+        "phrase": "{attacker} mows down {victim} using a {weaponIcon}`{weapon}` loaded with {ammoIcon}`{ammo}`'s! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "m2",
+            "machine_gun",
+            "light_machine_gun"
+        ],
+        "tier": 3
+    },
+    "bow": {
+        "rarity": "Uncommon",
+        "isWeap": true,
+        "isItem": false,
+        "damage": "0 - 7",
+        "minDmg": 0,
+        "maxDmg": 7,
+        "ammo": [
+            "bone_arrow",
+            "arrow"
+        ],
+        "craftedWith": {
+            "level": 2,
+            "materials": [
+                "wood|2",
+                "cloth|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "wood|1"
+            ]
+        },
+        "buy": "",
+        "sell": 3356,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929491059605544/hunting_bow.png",
+        "icon": "<:hunting_bow:732853948758753280>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.5,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 1715
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [],
+        "tier": 0
+    },
+    "revolver": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 0,
+        "maxDmg": 4,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 3,
+            "materials": [
+                "metal_pipe|1",
+                "metal|2"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 4037,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929789962354778/revolver.png",
+        "icon": "<:revolver:750105092308467763>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.34,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 1835
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "revvy",
+            "revvie",
+            "revo"
+        ],
+        "tier": 1
+    },
+    "thompson": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 17,
+        "maxDmg": 28,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 6,
+            "materials": [
+                "smg_body|1",
+                "metal_spring|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "display": "1x smg_body",
+            "materials": [
+                "smg_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 19736,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/733261093731958794/thompson.png",
+        "icon": "<:thompson:750105123899834428>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.35,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 3167
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "tommy",
+            "thommy"
+        ],
+        "tier": 2
+    },
+    "mp5": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 21,
+        "maxDmg": 30,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 7,
+            "materials": [
+                "smg_body|1",
+                "metal_spring|2",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "smg_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 52573,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733325647857844274/mp5.png",
+        "icon": "<:mp5:750105298114707506>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.12,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 3984
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [],
+        "tier": 3
+    },
+    "custom_smg": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 11,
+        "maxDmg": 21,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 5,
+            "materials": [
+                "smg_body|1",
+                "metal_spring|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "smg_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 17252,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733250239665799188/custom_smg.png",
+        "icon": "<:custom_smg:750105123065167872>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.38,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 2884
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "custom",
+            "smg"
+        ],
+        "tier": 2
+    },
+    "python": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 25,
+        "maxDmg": 33,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 6,
+            "materials": [
+                "metal_spring|1",
+                "metal_pipe|2"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "metal_pipe|1"
+            ]
+        },
+        "buy": "",
+        "sell": 17157,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733575765198766110/python.png",
+        "icon": "<:python:750105123631661076>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.59,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4123
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [],
+        "tier": 2
+    },
+    "m92_pistol": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 13,
+        "maxDmg": 20,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": [
+                "high_quality_metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 18157,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734000982392045628/m92_pistol.png",
+        "icon": "<:m92_pistol:750105123002253393>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.27,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 2742
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "m92",
+            "m9"
+        ],
+        "tier": 2
+    },
+    "bolt_rifle": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 54,
+        "maxDmg": 59,
+        "ammo": [
+            "explosive_bullet",
+            "incen_rifle_bullet",
+            "hv_rifle_bullet",
+            "rifle_bullet"
+        ],
+        "craftedWith": {
+            "level": 9,
+            "materials": [
+                "rifle_body|2",
+                "metal_spring|1",
+                "high_quality_metal|2"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "rifle_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 96621,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733262499440492544/bolt_rifle.png",
+        "icon": "<:bolt_rifle:750105297485299802>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.26,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 5626
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "bolty",
+            "sniper",
+            "bolt",
+            "bolt_action"
+        ],
+        "tier": 3
+    },
+    "semi_rifle": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 5,
+        "maxDmg": 17,
+        "ammo": [
+            "explosive_bullet",
+            "incen_rifle_bullet",
+            "hv_rifle_bullet",
+            "rifle_bullet"
+        ],
+        "craftedWith": {
+            "level": 6,
+            "materials": [
+                "semi_body|1",
+                "metal_spring|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "display": "1x semi_body",
+            "materials": [
+                "semi_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 21037,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733248648275558400/semi_rifle.png",
+        "icon": "<:semi_rifle:750105123757359114>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.35,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 3929
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "sar",
+            "semi"
+        ],
+        "tier": 2
+    },
+    "semi_pistol": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 5,
+        "maxDmg": 15,
+        "ammo": [
+            "hv_pistol_bullet",
+            "incen_pistol_bullet",
+            "pistol_bullet"
+        ],
+        "craftedWith": {
+            "level": 4,
+            "materials": [
+                "semi_body|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "semi_body|1"
+            ]
+        },
+        "buy": "",
+        "sell": 7156,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929807179972748/semi_pistol.png",
+        "icon": "<:semi_pistol:750105123757359134>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.3,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 2155
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "p2",
+            "p250",
+            "pistol"
+        ],
+        "tier": 2
+    },
+    "crossbow": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 6,
+        "maxDmg": 21,
+        "ammo": [
+            "bone_arrow",
+            "arrow"
+        ],
+        "craftedWith": {
+            "level": 3,
+            "materials": [
+                "wood|2",
+                "metal|2"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "wood|1",
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 3662,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929913145000016/crossbow.png",
+        "icon": "<:crossbow:750105090999713884>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.35,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 2232
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "crossy",
+            "crossie"
+        ],
+        "tier": 1
+    },
+    "pump_shotgun": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 15,
+        "maxDmg": 27,
+        "ammo": [
+            "12g_slug",
+            "12g_buckshot",
+            "handmade_shell"
+        ],
+        "craftedWith": {
+            "level": 6,
+            "materials": [
+                "metal_spring|1",
+                "metal_pipe|2",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "metal_pipe|1"
+            ]
+        },
+        "buy": "",
+        "sell": 24263,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930012034105394/pump_shotgun.png",
+        "icon": "<:pump_shotgun:750105123098722366>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.4,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 3432
+        },
+        "phrase": "{attacker} blasts {victim} using a {weaponIcon}`{weapon}` loaded with {ammoIcon}`{ammo}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "shotgun",
+            "pump",
+            "shotty",
+            "pumpie",
+            "pumpy"
+        ],
+        "tier": 2
+    },
+    "spas-12": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 30,
+        "maxDmg": 46,
+        "ammo": [
+            "12g_slug",
+            "12g_buckshot",
+            "handmade_shell"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": [
+                "metal_spring|1",
+                "metal_pipe|1"
+            ]
+        },
+        "buy": "",
+        "sell": 53621,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734033475807477780/spas-12.png",
+        "icon": "<:spas12:750105297892278392>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.22,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4662
+        },
+        "phrase": "{attacker} blasts {victim} using a {weaponIcon}`{weapon}` loaded with {ammoIcon}`{ammo}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "spas"
+        ],
+        "tier": 3
+    },
+    "lr-300": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 30,
+        "maxDmg": 38,
+        "ammo": [
+            "explosive_bullet",
+            "incen_rifle_bullet",
+            "hv_rifle_bullet",
+            "rifle_bullet"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "display": "1x rifle_body\n1x metal_spring",
+            "materials": [
+                "rifle_body|1",
+                "metal_spring|1"
+            ]
+        },
+        "buy": "",
+        "sell": 65623,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733991382821109790/lr-300.png",
+        "icon": "<:lr300:750105297804329003>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.15,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4247
+        },
+        "phrase": "{attacker} fires a {ammoIcon}`{ammo}` straight at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "lr"
+        ],
+        "tier": 3
+    },
+    "assault_rifle": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 34,
+        "maxDmg": 45,
+        "ammo": [
+            "explosive_bullet",
+            "incen_rifle_bullet",
+            "hv_rifle_bullet",
+            "rifle_bullet"
+        ],
+        "craftedWith": {
+            "level": 9,
+            "materials": [
+                "rifle_body|2",
+                "metal_spring|1",
+                "high_quality_metal|1"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "rifle_body|1",
+                "metal_spring|1"
+            ]
+        },
+        "buy": "",
+        "sell": 82571,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733253825418231868/ak-47.png",
+        "icon": "<:ak47:750105297108074559>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.23,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4561
+        },
+        "phrase": "{attacker} sprays down {victim} using an {weaponIcon}`{weapon}` loaded with {ammoIcon}`{ammo}`'s! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "rifle",
+            "ak",
+            "ak-47",
+            "ak47",
+            "assault"
+        ],
+        "tier": 3
+    },
+    "waterpipe_shotgun": {
+        "rarity": "Rare",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 0,
+        "maxDmg": 28,
+        "ammo": [
+            "12g_slug",
+            "12g_buckshot",
+            "handmade_shell"
+        ],
+        "craftedWith": {
+            "level": 3,
+            "materials": [
+                "metal_pipe|1",
+                "metal|1",
+                "wood|1"
+            ]
+        },
+        "recyclesTo": {
+            "display": "1x metal",
+            "materials": [
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 5419,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785297363959902/733222004924350484/waterpipe_shotgun.png",
+        "icon": "<:waterpipe_shotgun:750105092258267207>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.76,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 2732
+        },
+        "phrase": "{attacker} blasts {victim} using a {weaponIcon}`{weapon}` loaded with {ammoIcon}`{ammo}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "pipey",
+            "pipy",
+            "pipie",
+            "waterpipe"
+        ],
+        "tier": 1
+    },
+    "rocket_launcher": {
+        "rarity": "Legendary",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 0,
+        "maxDmg": 40,
+        "ammo": [
+            "rocket"
+        ],
+        "craftedWith": {
+            "level": 10,
+            "materials": [
+                "metal_pipe|2",
+                "high_quality_metal|3"
+            ]
+        },
+        "recyclesTo": {
+            "materials": [
+                "metal_pipe|1"
+            ]
+        },
+        "buy": "",
+        "sell": 112330,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930783240519712/rocket_launcher.png",
+        "unboxImage": "https://cdn.discordapp.com/attachments/497302646521069570/732930783240519712/rocket_launcher.png",
+        "icon": "<:rocket_launcher:750105298122965063>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.15,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 5383
+        },
+        "phrase": "{attacker} blew {victim} to bits using a {weaponIcon}`{weapon}` loaded with a {ammoIcon}`{ammo}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "rpg",
+            "launcher"
+        ],
+        "tier": 3
+    },
+    "grenade_launcher": {
+        "rarity": "Legendary",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 0,
+        "maxDmg": 25,
+        "ammo": [
+            "40mm_he_grenade",
+            "40mm_smoke_grenade"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": [
+                "metal_pipe|2",
+                "high_quality_metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 108427,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/732785297363959902/736367319944659065/grenade_launcher.png",
+        "icon": "<:grenade_launcher:750105297632362496>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.13,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4957
+        },
+        "phrase": "{attacker} blew {victim} to bits using a {weaponIcon}`{weapon}` loaded with a {ammoIcon}`{ammo}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "gl"
+        ],
+        "tier": 3
+    },
+    "snowball_gun": {
+        "rarity": "Limited",
+        "isWeap": true,
+        "isItem": false,
+        "minDmg": 15,
+        "maxDmg": 32,
+        "ammo": [
+            "snowball"
+        ],
+        "craftedWith": "",
+        "recyclesTo": {
+            "materials": [
+                "metal_pipe|1",
+                "metal|1"
+            ]
+        },
+        "buy": "",
+        "sell": 50251,
+        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/750103301739249716/791719544636833832/snowball_gun.png",
+        "icon": "<:snowball_gun:791719449115361280>",
+        "breaksOnUse": false,
+        "chanceToBreak": 0.31,
+        "canBeStolen": true,
+        "cooldown": {
+            "seconds": 4207
+        },
+        "phrase": "{attacker} launches a {ammoIcon}`{ammo}` at {victim} using a {weaponIcon}`{weapon}`! **{damage}** damage dealt!",
+        "artist": "",
+        "category": "Ranged",
+        "aliases": [
+            "snow_gun"
+        ],
+        "tier": 0
+    }
+}
