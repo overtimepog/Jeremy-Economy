@@ -33,7 +33,7 @@
                     "pistol_bullet|1",
                     "gunpowder|1",
                     "smg_body|1",
-                    "hazmat_suit|1"
+                    "armor|1"
                 ]
             },
             "8": {
@@ -187,7 +187,7 @@
         "desc": "Use this to reset your skills! Resetting your skills will also reset the cost to purchase skills with the `upgrade` command.",
         "image": "",
         "unboxImage": "",
-        "icon": "<:reroll_scroll:737034981582307469>",
+        "icon": "<:rerollscroll:829113372460580935>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -218,7 +218,7 @@
         "sell": 9652,
         "desc": "Use this to restore **26 - 30** health.",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929964889997343/medical_syringe.png",
-        "icon": "<:medical_syringe:750105092287627414>",
+        "icon": "<:medical_syringe:829114401381810186>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": {
@@ -263,7 +263,7 @@
         "sell": 21254,
         "desc": "Use this to restore **50 - 60** health and reduce bleeding by **100**.",
         "image": "https://cdn.discordapp.com/attachments/732785161661317224/733220182331359313/large_medkit.png",
-        "icon": "<:large_medkit:750105123497312347>",
+        "icon": "<:large_medkit:829114579094994955>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": {
@@ -349,7 +349,7 @@
                     "12g_buckshot|1",
                     "gunpowder|1",
                     "rifle_body|1",
-                    "hazmat_suit|1"
+                    "armor|1"
                 ]
             },
             "0.5": {
@@ -389,7 +389,7 @@
         "sell": 33773,
         "desc": "High tier loot container dropped from a plane.",
         "image": "https://cdn.discordapp.com/attachments/732785297363959902/733738547840024576/supply_drop_icon.png",
-        "icon": "<:supply_drop_icon:733732983252582420>",
+        "icon": "<:supply_drop_icon:829114773932736572>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -436,8 +436,7 @@
                     "thompson|1",
                     "rocket_launcher|1",
                     "hv_rifle_bullet|1",
-                    "incen_rifle_bullet|1",
-                    "metal_armor|1"
+                    "incen_rifle_bullet|1"
                 ]
             },
             "0.5": {
@@ -503,7 +502,6 @@
                     "thompson|1",
                     "hv_rifle_bullet|1",
                     "incen_rifle_bullet|1",
-                    "metal_armor|1",
                     "large_medkit|1",
                     "assault_rifle|1",
                     "python|1",
@@ -578,8 +576,8 @@
         "buy": "",
         "sell": 312900,
         "desc": "Use this on another clan to temporarily lower their current power by **5** for 1 hour, making them vulnerable to a raid.\n\nThis effect can stack.",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930980725260348/c4.png",
-        "icon": "<:c4:750105297695014912>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829115481473548309/c4.png",
+        "icon": "<:c4:829115556090871878>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -590,7 +588,7 @@
         ],
         "tier": 3
     },
-    "hazmat_suit": {
+    "armor": {
         "rarity": "Epic",
         "isWeap": false,
         "isItem": true,
@@ -621,56 +619,18 @@
         },
         "sell": 14293,
         "desc": "Use this armor to reduce damage taken from attacks by **35%** for **2 hours**.",
-        "image": "https://cdn.discordapp.com/attachments/542248243313246208/750619951580053544/hazmat_suit_ingame.png",
-        "icon": "<:hazmat_suit:750105123283271721>",
+        "image": "https://cdn.discordapp.com/attachments/819289994400235530/829116589444956210/Iron_armor_set_lg_equipped.png",
+        "icon": "<:runescape:829117242880163900>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
         "artist": "",
         "category": "Item",
         "aliases": [
-            "hazzy",
-            "hazmat",
-            "hazzie",
-            "rad_suit",
-            "haz"
+            "armor",
+            "runescape"
         ],
         "tier": 2
-    },
-    "metal_armor": {
-        "rarity": "Epic",
-        "isWeap": false,
-        "isItem": true,
-        "isShield": true,
-        "shieldInfo": {
-            "seconds": 28800,
-            "protection": 0.5
-        },
-        "damage": "",
-        "minDmg": "",
-        "maxDmg": "",
-        "ammo": "",
-        "craftedWith": "",
-        "recyclesTo": {
-            "materials": []
-        },
-        "buy": {
-            "amount": 206140,
-            "currency": "money"
-        },
-        "sell": 42153,
-        "desc": "Use this armor to reduce damage taken from attacks by **50%** for **8 hours**.",
-        "image": "https://cdn.discordapp.com/attachments/542248243313246208/750619954772181012/metal_armor_ingame.png",
-        "icon": "<:metal_armor:750105297925832795>",
-        "breaksOnUse": "",
-        "canBeStolen": true,
-        "cooldown": "",
-        "artist": "",
-        "category": "Item",
-        "aliases": [
-            "full_metal"
-        ],
-        "tier": 3
     },
     "small_stocking": {
         "rarity": "Limited",

@@ -398,7 +398,7 @@
         },
         "requirement": {
             "type": "armor",
-            "value": "hazmat_suit",
+            "value": "armor",
             "bonus": 0.5
         },
         "success": [
@@ -656,15 +656,6 @@
                 "item": "pump_shotgun",
                 "item2": "",
                 "quote": "**{user}** enters the tunnels but gets blasted by some guy camping the entrance with a {item}! **{user}** suffers **{damage}** damage."
-            },
-            {
-                "loss": {
-                    "type": "health",
-                    "value": 58
-                },
-                "item": "metal_armor",
-                "item2": "",
-                "quote": "**{user}** attracts the attention of looters wearing {item} while trying to clear the tunnels. **{user}** gets shot for **{damage}** damage..."
             }
         ]
     },
@@ -762,16 +753,6 @@
             }
         ],
         "failed": [
-            {
-                "loss": {
-                    "type": "health",
-                    "value": 15,
-                    "item": false
-                },
-                "item": "metal_armor",
-                "item2": "",
-                "quote": "**{user}** is spotted by two looters wearing {item}, tries to run away but is shot at for **{damage}** damage!"
-            },
             {
                 "loss": {
                     "type": "health",
@@ -904,7 +885,7 @@
                     "value": 18,
                     "item": true
                 },
-                "item": "hazmat_suit",
+                "item": "armor",
                 "item2": "",
                 "quote": "**{user}** was approached by two looters wearing {item}'s and got shot at for **{damage}** damage!"
             },
