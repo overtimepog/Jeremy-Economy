@@ -10,5 +10,11 @@
         "difficulty": "easy",
         "hint": "Rhymes with `mouse`, `espouse`, `louse`.",
         "define": "a building for human habitation, especially one that is lived in by a family or small group of people"
+    },
+    {
+        "word": "Apple",
+        "difficulty": "easy",
+        "hint": "A cool red fruit",
+        "define": "a red fruit commonly eaten"
     }
 ]
