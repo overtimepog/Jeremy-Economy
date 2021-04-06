@@ -102,14 +102,14 @@ exports.requiredPerms = {
 
 // cooldowns in seconds for some commands
 exports.cooldowns = {
-	hourly: 60,
+	hourly: 3600,
 	daily: 86400,
 	blackjack: 180,
 	coinflip: 180,
-	scramble: 60,
-	trivia: 60,
+	scramble: 900,
+	trivia: 900,
 	roulette: 180,
 	slots: 180,
-	jackpot: 60,
+	jackpot: 300,
 	xp_potion: 180
 }
