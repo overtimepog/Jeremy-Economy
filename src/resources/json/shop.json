@@ -55,13 +55,6 @@
         "minStock": 1,
         "maxStock": 3
     },
-    "bolt_rifle": {
-        "buyName": "boltscrap",
-        "minPrice": 1400000,
-        "maxPrice": 2000000,
-        "minStock": 1,
-        "maxStock": 1
-    },
     "c4": {
         "buyName": "c4scrap",
         "minPrice": 5000000,
