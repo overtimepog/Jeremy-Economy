@@ -4,7 +4,7 @@ module.exports = {
 	description: 'Sell items for Racoin.',
 	long: 'Sell items for Racoin. Use the `item` command to see how much an item can be sold for. You can also sell multiple items at once, check the examples to see how.',
 	args: { item: 'Item to sell.', amount: '**OPTIONAL** Amount of item to sell.' },
-	examples: ['sell armor 3', 'sell bolt_rifle 2 rock 3 crate 1'],
+	examples: ['sell armor 3', 'sell sniper_rifle 2 rock 3 crate 1'],
 	ignoreHelp: false,
 	requiresAcc: true,
 	requiresActive: false,

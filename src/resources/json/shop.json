@@ -62,7 +62,7 @@
         "minStock": 1,
         "maxStock": 1
     },
-    "m92_pistol": {
+    "pistol": {
         "buyName": "m92scrap",
         "minPrice": 300000,
         "maxPrice": 800000,

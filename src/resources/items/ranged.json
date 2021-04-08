@@ -59,8 +59,8 @@
         "buy": "",
         "sell": 18157,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734000982392045628/m92_pistol.png",
-        "icon": "<:m92_pistol:750105123002253393>",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734000982392045628/pistol.png",
+        "icon": "<:pistol:750105123002253393>",
         "breaksOnUse": false,
         "chanceToBreak": 0.27,
         "canBeStolen": true,
@@ -104,8 +104,8 @@
         "buy": "",
         "sell": 96621,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733262499440492544/bolt_rifle.png",
-        "icon": "<:bolt_rifle:750105297485299802>",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733262499440492544/sniper_rifle.png",
+        "icon": "<:sniper_rifle:750105297485299802>",
         "breaksOnUse": false,
         "chanceToBreak": 0.26,
         "canBeStolen": true,
@@ -193,8 +193,8 @@
         "buy": "",
         "sell": 24263,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930012034105394/pump_shotgun.png",
-        "icon": "<:pump_shotgun:750105123098722366>",
+        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930012034105394/shotgun.png",
+        "icon": "<:shotgun:750105123098722366>",
         "breaksOnUse": false,
         "chanceToBreak": 0.4,
         "canBeStolen": true,
@@ -207,9 +207,7 @@
         "aliases": [
             "shotgun",
             "pump",
-            "shotty",
-            "pumpie",
-            "pumpy"
+            "shotty"
         ],
         "tier": 2
     },

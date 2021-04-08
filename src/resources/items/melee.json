@@ -29,38 +29,6 @@
         ],
         "tier": 0
     },
-    "bone_knife": {
-        "rarity": "Common",
-        "isWeap": true,
-        "isItem": false,
-        "damage": "5 - 10",
-        "minDmg": 5,
-        "maxDmg": 10,
-        "ammo": "",
-        "craftedWith": "",
-        "recyclesTo": {
-            "materials": [
-                "bone_fragments|1"
-            ]
-        },
-        "buy": "",
-        "sell": 466,
-        "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732928579285024818/bone_knife.png",
-        "icon": "<:bone_knife:732852965676679200>",
-        "breaksOnUse": true,
-        "canBeStolen": true,
-        "cooldown": {
-            "seconds": 545
-        },
-        "phrase": "{attacker} sliced {victim} with a {weaponIcon}`{weapon}` dealing **{damage}** damage!",
-        "artist": "",
-        "category": "Melee",
-        "aliases": [
-            "knife"
-        ],
-        "tier": 0
-    },
     "rock": {
         "rarity": "Common",
         "isWeap": true,
@@ -89,7 +57,7 @@
         "aliases": [],
         "tier": 0
     },
-    "machete": {
+    "crowbar": {
         "rarity": "Uncommon",
         "isWeap": true,
         "isItem": false,
@@ -104,8 +72,8 @@
         "buy": "",
         "sell": 3177,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733224398630289438/machete.png",
-        "icon": "<:machete:733224537226870855>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829726607312814091/crowbar.png",
+        "icon": "<:crowbar:829726730180231269>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
@@ -132,8 +100,8 @@
         "buy": "",
         "sell": 4153,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733224396386467860/mace.png",
-        "icon": "<:mace:732853133528793179>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829727788637356063/Mace.png",
+        "icon": "<:Mace:829727487218811001>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
@@ -190,8 +158,8 @@
         "buy": "",
         "sell": 489,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785297363959902/750839454251483277/hatchet.png",
-        "icon": "<:hatchet:750838999417094280>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829728634712883260/Hatchet.png",
+        "icon": "<:Hatchet:829728581856919573>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
@@ -203,7 +171,7 @@
         "aliases": [],
         "tier": 0
     },
-    "f1_grenade": {
+    "frag_grenade": {
         "rarity": "Rare",
         "isWeap": true,
         "isItem": false,
@@ -217,8 +185,8 @@
         "buy": "",
         "sell": 4278,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930107852980234/f1_grenade.png",
-        "icon": "<:f1_grenade:750105091222143056>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829724064071417967/829723936236240950.png",
+        "icon": "<:frag:829723936236240950>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
@@ -228,7 +196,7 @@
         "artist": "",
         "category": "Melee",
         "aliases": [
-            "f1",
+            "frag",
             "grenade"
         ],
         "tier": 1
@@ -247,8 +215,8 @@
         "buy": "",
         "sell": 4583,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785297363959902/735634596007379044/longsword.png",
-        "icon": "<:longsword:735634543779774465>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829724568125702204/250px-Eyelandertransparent.png",
+        "icon": "<:longsword:829724716679036978>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {

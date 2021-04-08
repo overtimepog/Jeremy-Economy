@@ -1,6 +1,6 @@
 {
-    "supermarket": {
-        "title": "Abandoned Supermarket",
+    "Dumpster": {
+        "title": "Jeremys' Dumpster",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/738367060115193866/supermarket.png",
         "suggestedLevel": "2",
         "successRate": {
@@ -34,7 +34,7 @@
                     "type": null,
                     "value": 0
                 },
-                "quote": "**{user}** found {reward} outside of the building!"
+                "quote": "**{user}** found {reward} outside of the dumpster!"
             },
             {
                 "reward": {
@@ -49,7 +49,7 @@
                     "type": null,
                     "value": 0
                 },
-                "quote": "**{user}** climbs on top of the building and finds {reward}!"
+                "quote": "**{user}** climbs on top of the dumpster and finds {reward}!"
             },
             {
                 "reward": {
@@ -64,7 +64,7 @@
                     "type": null,
                     "value": 0
                 },
-                "quote": "**{user}** loots a dead player inside the building and finds {reward}!"
+                "quote": "**{user}** loots a dead player inside the dumpster and finds {reward}!"
             }
         ],
         "failed": [
@@ -102,7 +102,7 @@
                 },
                 "item": "",
                 "item2": "",
-                "quote": "All **{user}** saw was broken tiles, empty shelves and a dead rat."
+                "quote": "All **{user}** saw was trash, empty bags and a dead rat."
             },
             {
                 "loss": {
@@ -111,7 +111,7 @@
                 },
                 "item": "",
                 "item2": "",
-                "quote": "**{user}** checked all the shelves, the back office and storage rooms, but found nothing..."
+                "quote": "**{user}** checked all the bags, but found nothing..."
             },
             {
                 "loss": {
@@ -127,7 +127,7 @@
                     "type": "health",
                     "value": 5
                 },
-                "item": "bone_knife",
+                "item": "crowbar",
                 "item2": "",
                 "quote": "**{user}** got into a fight with an armed man wielding a {item} and lost **{damage}** health."
             },
