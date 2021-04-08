@@ -53,7 +53,7 @@
         "sell": 6056,
         "desc": "9x19mm cartridge, also known as 9mm.",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/732929397333426246/pistol_bullet.png",
-        "icon": "<:pistol_bullet:750105091977248860>",
+        "icon": "<:pistol_bullet:829789726801264691>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -92,7 +92,7 @@
         "sell": 11274,
         "desc": "Incendiary pistol bullet that bursts into flames upon impact.",
         "image": "https://cdn.discordapp.com/attachments/610503377679548446/805959692790005822/incendiary_pistol_bullet.png",
-        "icon": "<:incendiary_pistol_bullet:805959572769472512>",
+        "icon": "<:incendiary_pistol_bullet:829789727514165390>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -139,7 +139,7 @@
         "sell": 13420,
         "desc": "High velocity pistol bullet. Its high speed is known to cause bleed damage.",
         "image": "https://cdn.discordapp.com/attachments/610503377679548446/807802922645192704/hv_pistol_bullet.png",
-        "icon": "<:hv_pistol_bullet:807801706788159509>",
+        "icon": "<:hv_pistol_bullet:829789727548243998>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -178,7 +178,7 @@
         "sell": 10036,
         "desc": "5.56 rifle ammunition.",
         "image": "https://cdn.discordapp.com/attachments/732785161661317224/733051137774583810/rifle_bullet.png",
-        "icon": "<:rifle_bullet:750105123677798493>",
+        "icon": "<:rifle_bullet:829789727509970945>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -216,7 +216,7 @@
         "sell": 20823,
         "desc": "High velocity 5.56 rifle ammunition that causes bleeding.",
         "image": "https://cdn.discordapp.com/attachments/732785297363959902/734096778466558002/hv_rifle_bullet.png",
-        "icon": "<:hv_rifle_bullet:750105298093473932>",
+        "icon": "<:hv_rifle_bullet:829789727954960425>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -257,7 +257,7 @@
         "sell": 22148,
         "desc": "Incendiary rifle bullet. Bursts into flames upon impact causing burn damage.",
         "image": "https://cdn.discordapp.com/attachments/610503377679548446/807832046491664397/incen_rifle_bullet.png",
-        "icon": "<:incen_rifle_bullet:807831993252970536>",
+        "icon": "<:incen_rifle_bullet:829789728081444994>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -289,7 +289,7 @@
         "sell": 38823,
         "desc": "Explosive 5.56 rifle ammunition. Has the ability to __penetrate armor__.",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/777345539879862311/95273911-4aa9af00-0812-11eb-8224-8e905d8b883f.png",
-        "icon": "<:explosive_bullet:763256721786929212>",
+        "icon": "<:explosive_bullet:829789719457038356>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "penetratesArmor": true,
@@ -309,41 +309,7 @@
         ],
         "tier": 3
     },
-    "handmade_shell": {
-        "rarity": "Rare",
-        "isWeap": false,
-        "isItem": false,
-        "damage": 5,
-        "minDmg": "",
-        "maxDmg": "",
-        "ammo": "",
-        "craftedWith": {
-            "level": 3,
-            "materials": [
-                "gunpowder|1",
-                "rock|1"
-            ]
-        },
-        "recyclesTo": {
-            "materials": []
-        },
-        "buy": "",
-        "sell": 2352,
-        "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785297363959902/750166902625796188/handmade_shell.png",
-        "icon": "<:handmade_shell:750166864818208788>",
-        "breaksOnUse": "",
-        "canBeStolen": true,
-        "cooldown": "",
-        "artist": "",
-        "category": "Ammo",
-        "aliases": [
-            "handmade",
-            "shell"
-        ],
-        "tier": 0
-    },
-    "12g_buckshot": {
+    "shotgun_shell": {
         "rarity": "Rare",
         "isWeap": false,
         "isItem": false,
@@ -363,9 +329,9 @@
         },
         "buy": "",
         "sell": 8134,
-        "desc": "12 Gauge buckshot shell.",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930056271429632/12g_buckshot.png",
-        "icon": "<:12g_buckshot:750105123014836284>",
+        "desc": "shotgun shell.",
+        "image": "https://cdn.discordapp.com/attachments/829770644375601226/829791027832946768/12g_buckshot.png",
+        "icon": "<:shotgun_shell:829789710079098969>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -382,39 +348,6 @@
             "12g"
         ],
         "tier": 2
-    },
-    "12g_slug": {
-        "rarity": "Rare",
-        "isWeap": false,
-        "isItem": false,
-        "damage": 33,
-        "minDmg": "",
-        "maxDmg": "",
-        "ammo": "",
-        "craftedWith": {
-            "level": 7,
-            "materials": [
-                "gunpowder|4",
-                "metal|2"
-            ]
-        },
-        "recyclesTo": {
-            "materials": []
-        },
-        "buy": "",
-        "sell": 36120,
-        "desc": "12 Gauge slug shell. Used for shotguns.",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/733052371680362626/12g_slug.png",
-        "icon": "<:12g_slug:750105297481367592>",
-        "breaksOnUse": "",
-        "canBeStolen": true,
-        "cooldown": "",
-        "artist": "",
-        "category": "Ammo",
-        "aliases": [
-            "slug"
-        ],
-        "tier": 3
     },
     "rocket": {
         "rarity": "Legendary",
@@ -442,7 +375,7 @@
         "desc": "",
         "image": "https://cdn.discordapp.com/attachments/497302646521069570/732930781508403280/rocket.png",
         "unboxImage": "https://cdn.discordapp.com/attachments/497302646521069570/732930781508403280/rocket.png",
-        "icon": "<:rocket_basic:750105298118901822>",
+        "icon": "<:rocketnew:829789727817072662>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -470,7 +403,7 @@
         "sell": 65262,
         "desc": "Releases smoke upon impact, blinding the enemy and preventing any use of commands for **2 hours**.",
         "image": "https://cdn.discordapp.com/attachments/732785297363959902/736367317037875221/40mm_smoke_grenade.png",
-        "icon": "<:40mm_smoke_grenade:750105297242292295>",
+        "icon": "<:40mm_smoke_grenade:829789726016798800>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",
@@ -502,7 +435,7 @@
         "sell": 95421,
         "desc": "High explosive ammunition for grenade launchers.",
         "image": "https://cdn.discordapp.com/attachments/732785297363959902/736369883683487754/40mm_he_grenade.png",
-        "icon": "<:40mm_he_grenade:750105297187766273>",
+        "icon": "<:40mm_he_grenade:829789721340149841>",
         "breaksOnUse": "",
         "canBeStolen": true,
         "cooldown": "",

@@ -80,35 +80,6 @@
         "aliases": [],
         "tier": 0
     },
-    "bone_fragments": {
-        "rarity": "Uncommon",
-        "isWeap": false,
-        "isItem": false,
-        "isMaterial": true,
-        "damage": "",
-        "minDmg": "",
-        "maxDmg": "",
-        "ammo": "",
-        "craftedWith": "",
-        "recyclesTo": {
-            "materials": []
-        },
-        "buy": "",
-        "sell": 525,
-        "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/732785297363959902/736661917283778570/bone_fragments.png",
-        "icon": "<:bone_fragments:829060012290211871>",
-        "breaksOnUse": "",
-        "canBeStolen": true,
-        "cooldown": "",
-        "artist": "",
-        "category": "Material",
-        "aliases": [
-            "bones",
-            "bone_frags"
-        ],
-        "tier": 0
-    },
     "metal": {
         "rarity": "Rare",
         "isWeap": false,

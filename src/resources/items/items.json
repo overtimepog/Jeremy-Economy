@@ -29,7 +29,7 @@
                     "metal_spring|1",
                     "shotgun|1",
                     "revolver|1",
-                    "12g_buckshot|1",
+                    "shotgun_shell|1",
                     "pistol_bullet|1",
                     "gunpowder|1",
                     "smg_body|1",
@@ -41,10 +41,7 @@
                 "items": [
                     "crossbow|1",
                     "frag_grenade|1",
-                    "medical_syringe|1",
-                    "waterpipe_shotgun|1",
-                    "handmade_shell|1",
-                    "bone_armor|1"
+                    "medical_syringe|1"
                 ]
             },
             "15": {
@@ -308,7 +305,6 @@
                     "rifle_bullet|1",
                     "tech_trash|1",
                     "large_medkit|1",
-                    "semi_pistol|1",
                     "metal_spring|1",
                     "custom_smg|1",
                     "pistol|1"
@@ -320,9 +316,7 @@
                     "semi_body|1",
                     "bow|1",
                     "medical_syringe|1",
-                    "waterpipe_shotgun|1",
-                    "arrow|1",
-                    "handmade_shell|1"
+                    "arrow|1"
                 ]
             },
             "56": {
@@ -346,7 +340,7 @@
                     "pistol_bullet|1",
                     "shotgun|1",
                     "crossbow|1",
-                    "12g_buckshot|1",
+                    "shotgun_shell|1",
                     "gunpowder|1",
                     "rifle_body|1",
                     "armor|1"
@@ -425,7 +419,7 @@
                     "small_stash|1",
                     "rifle_body|1",
                     "pistol_bullet|1",
-                    "12g_buckshot|1",
+                    "shotgun_shell|1",
                     "metal_spring|1"
                 ]
             },
