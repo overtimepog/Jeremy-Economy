@@ -74,7 +74,7 @@
                     "hatchet|1",
                     "rock|1",
                     "pickaxe|1",
-                    "wooden_spear|1",
+                    "wooden_knife|1",
                     "salvaged_cleaver|1",
                     "milk|1"
                 ]
@@ -554,7 +554,7 @@
         },
         "sell": 14293,
         "desc": "Use this armor to reduce damage taken from attacks by **35%** for **2 hours**.",
-        "image": "https://cdn.discordapp.com/attachments/819289994400235530/829116589444956210/Iron_armor_set_lg_equipped.png",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829770022230032384/runescape.png",
         "icon": "<:runescape:829349824695762946>",
         "breaksOnUse": "",
         "canBeStolen": true,

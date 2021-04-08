@@ -1,5 +1,5 @@
 {
-    "wooden_spear": {
+    "wooden_knife": {
         "rarity": "Common",
         "isWeap": true,
         "isItem": false,
@@ -14,8 +14,8 @@
         "buy": "",
         "sell": 379,
         "desc": "",
-        "image": "https://cdn.discordapp.com/attachments/497302646521069570/732928724160217118/wooden_spear.png",
-        "icon": "<:wooden_spear:732852914862817323>",
+        "image": "https://cdn.discordapp.com/attachments/820769091148316715/829745880935432222/Wooden_Knife.png",
+        "icon": "<:Wooden_Knife:829745778926288936>",
         "breaksOnUse": true,
         "canBeStolen": true,
         "cooldown": {
