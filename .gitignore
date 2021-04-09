@@ -10,7 +10,7 @@ src/resources/json/trivia_questions.json
 src/resources/json/scramble_words.json
 
 # OG Looters
-src/resources/json/og_looters.json
+src/resources/json/og_trashers.json
 
 # Data file
 *.sqlite

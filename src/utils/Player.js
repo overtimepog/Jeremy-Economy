@@ -5,7 +5,7 @@ Canvas.registerFont('src/resources/fonts/BebasNeue-Regular.ttf', { family: 'Beba
 let oldPlayers
 
 try {
-	oldPlayers = require('../resources/json/og_looters')
+	oldPlayers = require('../resources/json/og_trashers')
 }
 catch (err) {
 	oldPlayers = []
