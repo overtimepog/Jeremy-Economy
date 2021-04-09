@@ -71,6 +71,7 @@
         "category": "Ranged",
         "aliases": [
             "m92",
+            "pistol",
             "m9"
         ],
         "tier": 2
@@ -171,7 +172,6 @@
         "minDmg": 15,
         "maxDmg": 27,
         "ammo": [
-            "12g_slug",
             "shotgun_shell"
         ],
         "craftedWith": {

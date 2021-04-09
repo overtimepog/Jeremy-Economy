@@ -1,10 +1,10 @@
 {
-    "m92_scientist": {
-        "title": "Scientist",
-        "mentioned": "the **Scientist**",
+    "jeremy": {
+        "title": "Jeremy",
+        "mentioned": "the **Raccoon**",
         "artist": "",
-        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734001488027844608/m92_scientist.png",
-        "leftImage": "https://cdn.discordapp.com/attachments/732785161661317224/734001493467856896/m92_scientist_left.png",
+        "image": "https://cdn.discordapp.com/attachments/732785161661317224/734001488027844608/jeremy.png",
+        "leftImage": "https://cdn.discordapp.com/attachments/732785161661317224/734001493467856896/jeremy_left.png",
         "pronoun": "he",
         "special": "",
         "health": 100,
@@ -17,7 +17,7 @@
         "xp": 70,
         "weapon": {
             "name": "pistol",
-            "icon": "<:pistol:732853706294558720>"
+            "icon": "<:pistol:829786516175585372>"
         },
         "ammo": "pistol_bullet",
         "extraDrops": 3,
@@ -25,15 +25,13 @@
             "main": {
                 "40": {
                     "items": [
-                        "custom_smg|1",
-                        "semi_rifle|1",
                         "pistol|1"
                     ]
                 },
                 "60": {
                     "items": [
-                        "semi_pistol|1",
-                        "revolver|1"
+                        "bow|1",
+                        "crossbow|1"
                     ]
                 }
             },
@@ -55,7 +53,7 @@
                 "5": {
                     "items": [
                         "rifle_bullet|1",
-                        "12g_slug|1"
+                        "shotgun_shell|1"
                     ]
                 }
             }

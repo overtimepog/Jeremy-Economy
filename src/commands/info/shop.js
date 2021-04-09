@@ -2,9 +2,9 @@ const max_items_per_page = 16
 
 module.exports = {
 	name: 'shop',
-	aliases: ['store', 'market', 'outpost'],
+	aliases: ['store', 'market'],
 	description: 'Shows all items that can be bought.',
-	long: 'Visit the Outpost and see what items can be bought. The homepage sales may change so be sure to check often!',
+	long: 'Visit the Shop and see what items can be bought. The homepage sales may change so be sure to check often!',
 	args: {},
 	examples: [],
 	ignoreHelp: false,
@@ -41,7 +41,7 @@ async function generatePages(app, allItems, prefix, itemsPerPage) {
 		const filteredItems = allItems.slice(indexFirst, indexLast)
 
 		const pageEmbed = new app.Embed()
-			.setTitle('The Outpost Shop')
+			.setTitle('The Jeremy Shop')
 			.setDescription(`Use \`${prefix}buy <item>\` to purchase.\n\nCan't find the item you want? Try searching the black market: \`${prefix}bm <item>\`.`)
 			.setColor(13451564)
 

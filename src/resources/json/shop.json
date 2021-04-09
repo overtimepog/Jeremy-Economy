@@ -69,26 +69,12 @@
         "minStock": 1,
         "maxStock": 2
     },
-    "12g_slug": {
+    "shotgun_shell": {
         "buyName": "slugscrap",
         "minPrice": 450000,
         "maxPrice": 850000,
         "minStock": 1,
         "maxStock": 2
-    },
-    "semi_rifle": {
-        "buyName": "sarscrap",
-        "minPrice": 290000,
-        "maxPrice": 500000,
-        "minStock": 1,
-        "maxStock": 1
-    },
-    "mp5": {
-        "buyName": "mp5scrap",
-        "minPrice": 600000,
-        "maxPrice": 1500000,
-        "minStock": 1,
-        "maxStock": 1
     },
     "rocket_launcher": {
         "buyName": "launcherscrap",
@@ -165,13 +151,6 @@
         "minPrice": 350000,
         "maxPrice": 500000,
         "minStock": 1,
-        "maxStock": 2
-    },
-    "machete": {
-        "buyName": "machetescrap",
-        "minPrice": 50000,
-        "maxPrice": 100000,
-        "minStock": 2,
         "maxStock": 2
     },
     "mace": {

@@ -3,15 +3,15 @@
   "cancel": "❌",
   "money": "<:jeremy_coin:828814740456996884>",
   "scrap": "<:scrap:828834590931025970>",
-  "clan_icon": "<:clanicon:602143018514120704>",
-  "clan_leader_crown": "<:owner:585789630800986114>",
-  "death_skull": "<:deth:601324554199236618>",
-  "plus": "<:gained:610502532003004435>",
-  "minus": "<:lost:610502520590041089>",
+  "clan_icon": "<:clanicon:829880764568567819>",
+  "clan_leader_crown": "👑",
+  "death_skull": "<:deth:829878025871949834>",
+  "plus": "<:gained:829878026086645791>",
+  "minus": "<:lost:829878026224271360>",
   "loading": "<a:loadgif:594877067837833237>",
-  "blackjack_dealer_won": "<:OHNONO:625030797375832133>",
-  "blackjack_dealer_lost": "<:iamlose:625031548961292349>",
-  "blackjack_dealer_neutral": "<:ez:625030742296100902>",
+  "blackjack_dealer_won": "<:ohno:829878026090446918>",
+  "blackjack_dealer_lost": "<:iamlose:829879682878144523>",
+  "blackjack_dealer_neutral": "<:won:829878025654501447>",
   "slots_toprow_gif": "<a:slotsTop:734087756627574824>",
   "slots_midrow_gif": "<a:slotsMid:734087756304875631>",
   "slots_botrow_gif": "<a:slotsBot:734087756472647750>",
@@ -34,8 +34,8 @@
     "inactive": "<:NA:828833225669345350> "
   },
   "tiers": {
-    "1": "<:tier1:750119430947864678>",
-    "2": "<:tier2:750119431346061373>",
-    "3": "<:tier3:750119431333740544>"
+    "1": "<:tier1:829878025997910016>",
+    "2": "<:tier2:829878026014687272>",
+    "3": "<:tier3:829878025850978345>"
   }
 }

@@ -28,7 +28,6 @@
                 "items": [
                     "metal_spring|1",
                     "shotgun|1",
-                    "revolver|1",
                     "shotgun_shell|1",
                     "pistol_bullet|1",
                     "gunpowder|1",
@@ -61,7 +60,6 @@
                     "bandage|1",
                     "mace|1",
                     "salvaged_sword|1",
-                    "machete|1",
                     "crowbar|1"
                 ]
             },
@@ -301,7 +299,7 @@
             "2": {
                 "xp": 50,
                 "items": [
-                    "12g_slug|1",
+                    "shotgun_shell|1",
                     "rifle_bullet|1",
                     "tech_trash|1",
                     "large_medkit|1",
@@ -326,7 +324,6 @@
                     "bandage|1",
                     "mace|1",
                     "milk|1",
-                    "machete|1",
                     "salvaged_sword|1",
                     "salvaged_cleaver|1",
                     "longsword|1"
@@ -336,7 +333,6 @@
                 "xp": 40,
                 "items": [
                     "cloth|1",
-                    "revolver|1",
                     "pistol_bullet|1",
                     "shotgun|1",
                     "crossbow|1",
@@ -349,8 +345,6 @@
             "0.5": {
                 "xp": 70,
                 "items": [
-                    "thompson|1",
-                    "semi_rifle|1",
                     "supply_signal|1",
                     "assault_rifle|1"
                 ]
@@ -426,7 +420,7 @@
             "4.5": {
                 "xp": 110,
                 "items": [
-                    "12g_slug|1",
+                    "shotgun_shell|1",
                     "thompson|1",
                     "rocket_launcher|1",
                     "hv_rifle_bullet|1",
