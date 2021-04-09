@@ -5,10 +5,10 @@ Canvas.registerFont('src/resources/fonts/BebasNeue-Regular.ttf', { family: 'Beba
 let oldPlayers
 
 try {
-	oldPlayers = require('../resources/json/og_trashers')
+	oldPlayers = require('../resources/json/og_trashers.json')
 }
 catch (err) {
-	oldPlayers = []
+	oldPlayers = [316289113647218688]
 }
 
 class Player {
@@ -75,7 +75,7 @@ class Player {
 		this.app.common.messageUser(id, newPlayer)
 
 		if (oldPlayers.includes(id)) {
-			await this.app.itm.addBadge(id, 'vintage')
+			await this.app.itm.addBadge(id, 'og_trasher')
 		}
 	}
 
